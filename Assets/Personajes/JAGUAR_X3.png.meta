@@ -1,0 +1,3601 @@
+fileFormatVersion: 2
+guid: e5b969adcca513f459fbbb9f639b04f4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8058140144841734271
+    second: JAGUAR_X3_0
+  - first:
+      213: 5654945832370638162
+    second: JAGUAR_X3_1
+  - first:
+      213: -7249568732269503626
+    second: JAGUAR_X3_2
+  - first:
+      213: -8715699325693850095
+    second: JAGUAR_X3_3
+  - first:
+      213: 3625076297613372796
+    second: JAGUAR_X3_4
+  - first:
+      213: 7991612478284413117
+    second: JAGUAR_X3_5
+  - first:
+      213: -5113250627782477068
+    second: JAGUAR_X3_6
+  - first:
+      213: -536565193555321069
+    second: JAGUAR_X3_7
+  - first:
+      213: -6290720619280230480
+    second: JAGUAR_X3_8
+  - first:
+      213: -1748815012736105446
+    second: JAGUAR_X3_9
+  - first:
+      213: -8438228478058298060
+    second: JAGUAR_X3_10
+  - first:
+      213: 7471614562041386664
+    second: JAGUAR_X3_11
+  - first:
+      213: -9116092128719596048
+    second: JAGUAR_X3_12
+  - first:
+      213: 2755933018774966773
+    second: JAGUAR_X3_13
+  - first:
+      213: 606087507032701191
+    second: JAGUAR_X3_14
+  - first:
+      213: -1607378213512186895
+    second: JAGUAR_X3_15
+  - first:
+      213: 1754246094264963530
+    second: JAGUAR_X3_16
+  - first:
+      213: 6361553782707078374
+    second: JAGUAR_X3_17
+  - first:
+      213: 610534537944756648
+    second: JAGUAR_X3_18
+  - first:
+      213: 1730644839054706267
+    second: JAGUAR_X3_19
+  - first:
+      213: 3838559154639212225
+    second: JAGUAR_X3_20
+  - first:
+      213: -8974517320643305331
+    second: JAGUAR_X3_21
+  - first:
+      213: -9065311340304691776
+    second: JAGUAR_X3_22
+  - first:
+      213: 876750995630023596
+    second: JAGUAR_X3_23
+  - first:
+      213: -5552712349283239518
+    second: JAGUAR_X3_24
+  - first:
+      213: -5783106319895441990
+    second: JAGUAR_X3_25
+  - first:
+      213: 44178081799599552
+    second: JAGUAR_X3_26
+  - first:
+      213: -7071441399156577629
+    second: JAGUAR_X3_27
+  - first:
+      213: -3169035871699479699
+    second: JAGUAR_X3_28
+  - first:
+      213: -5805378817338154397
+    second: JAGUAR_X3_29
+  - first:
+      213: -5335553329277595885
+    second: JAGUAR_X3_30
+  - first:
+      213: 6378850444401424946
+    second: JAGUAR_X3_31
+  - first:
+      213: -6766678771161789032
+    second: JAGUAR_X3_32
+  - first:
+      213: -4190353142393502670
+    second: JAGUAR_X3_33
+  - first:
+      213: 6033482410584162999
+    second: JAGUAR_X3_34
+  - first:
+      213: -8804167993754497273
+    second: JAGUAR_X3_35
+  - first:
+      213: 8755043362442232450
+    second: JAGUAR_X3_36
+  - first:
+      213: 6977288013873701607
+    second: JAGUAR_X3_37
+  - first:
+      213: 2647126049588615069
+    second: JAGUAR_X3_38
+  - first:
+      213: 9127539064669885404
+    second: JAGUAR_X3_39
+  - first:
+      213: -5960949017778898241
+    second: JAGUAR_X3_40
+  - first:
+      213: 4083618717884658604
+    second: JAGUAR_X3_41
+  - first:
+      213: 2777623613709553568
+    second: JAGUAR_X3_42
+  - first:
+      213: 8756809346508301130
+    second: JAGUAR_X3_43
+  - first:
+      213: 1002619536744733398
+    second: JAGUAR_X3_44
+  - first:
+      213: 1323952807504399311
+    second: JAGUAR_X3_45
+  - first:
+      213: 8537573834564259588
+    second: JAGUAR_X3_46
+  - first:
+      213: 3578980055398383965
+    second: JAGUAR_X3_47
+  - first:
+      213: -6053669139966242976
+    second: JAGUAR_X3_48
+  - first:
+      213: 3104268098064947730
+    second: JAGUAR_X3_49
+  - first:
+      213: -3753631808446821132
+    second: JAGUAR_X3_50
+  - first:
+      213: -2518516231399850075
+    second: JAGUAR_X3_51
+  - first:
+      213: -5758462625376079811
+    second: JAGUAR_X3_52
+  - first:
+      213: 1662939117997640354
+    second: JAGUAR_X3_53
+  - first:
+      213: -1235624769719584863
+    second: JAGUAR_X3_54
+  - first:
+      213: -6123439430919688595
+    second: JAGUAR_X3_55
+  - first:
+      213: -3627774161911719854
+    second: JAGUAR_X3_56
+  - first:
+      213: -2103556392562128361
+    second: JAGUAR_X3_57
+  - first:
+      213: -6787608614972364105
+    second: JAGUAR_X3_58
+  - first:
+      213: 6309569089179525358
+    second: JAGUAR_X3_59
+  - first:
+      213: 297809747115904022
+    second: JAGUAR_X3_60
+  - first:
+      213: -3128291347747797710
+    second: JAGUAR_X3_61
+  - first:
+      213: 2767459156962323711
+    second: JAGUAR_X3_62
+  - first:
+      213: 1178467617248141350
+    second: JAGUAR_X3_63
+  - first:
+      213: -3917553290167386232
+    second: JAGUAR_X3_64
+  - first:
+      213: -1116083371278623621
+    second: JAGUAR_X3_65
+  - first:
+      213: -4727088049987814796
+    second: JAGUAR_X3_66
+  - first:
+      213: 2937375316907968338
+    second: JAGUAR_X3_67
+  - first:
+      213: 9206967285000725090
+    second: JAGUAR_X3_68
+  - first:
+      213: -3330846768480100998
+    second: JAGUAR_X3_69
+  - first:
+      213: 5171845941081250013
+    second: JAGUAR_X3_70
+  - first:
+      213: 581731750507059151
+    second: JAGUAR_X3_71
+  - first:
+      213: 6959265284121999877
+    second: JAGUAR_X3_72
+  - first:
+      213: -1571040559818547696
+    second: JAGUAR_X3_73
+  - first:
+      213: -3574266606320276468
+    second: JAGUAR_X3_74
+  - first:
+      213: 5646367873952395624
+    second: JAGUAR_X3_75
+  - first:
+      213: -5162801826503985477
+    second: JAGUAR_X3_76
+  - first:
+      213: 1808431611211137510
+    second: JAGUAR_X3_77
+  - first:
+      213: 6567064146383292134
+    second: JAGUAR_X3_78
+  - first:
+      213: 4026691283182797228
+    second: JAGUAR_X3_79
+  - first:
+      213: -6354599405251565522
+    second: JAGUAR_X3_80
+  - first:
+      213: 8486501463881375385
+    second: JAGUAR_X3_81
+  - first:
+      213: 5232819921151353002
+    second: JAGUAR_X3_82
+  - first:
+      213: -5117401466857050192
+    second: JAGUAR_X3_83
+  - first:
+      213: 7727892703874208115
+    second: JAGUAR_X3_84
+  - first:
+      213: -8756273619727715558
+    second: JAGUAR_X3_85
+  - first:
+      213: -228719429071226993
+    second: JAGUAR_X3_86
+  - first:
+      213: -2940056628759666952
+    second: JAGUAR_X3_87
+  - first:
+      213: -7936965231429524883
+    second: JAGUAR_X3_88
+  - first:
+      213: 9030106774681613363
+    second: JAGUAR_X3_89
+  - first:
+      213: -3492990822631099912
+    second: JAGUAR_X3_90
+  - first:
+      213: 7802494431233744050
+    second: JAGUAR_X3_91
+  - first:
+      213: 3438203917511749711
+    second: JAGUAR_X3_92
+  - first:
+      213: -2542791445311354362
+    second: JAGUAR_X3_93
+  - first:
+      213: -7065027762890885240
+    second: JAGUAR_X3_94
+  - first:
+      213: 6464834023958031340
+    second: JAGUAR_X3_95
+  - first:
+      213: 1105634458029917859
+    second: JAGUAR_X3_96
+  - first:
+      213: 3617434062110996146
+    second: JAGUAR_X3_97
+  - first:
+      213: -4364996907207985131
+    second: JAGUAR_X3_98
+  - first:
+      213: -1019479305717968580
+    second: JAGUAR_X3_99
+  - first:
+      213: 6377500777938095894
+    second: JAGUAR_X3_100
+  - first:
+      213: 4949562667225600227
+    second: JAGUAR_X3_101
+  - first:
+      213: -6813159323910783456
+    second: JAGUAR_X3_102
+  - first:
+      213: 1205156403182044051
+    second: JAGUAR_X3_103
+  - first:
+      213: 1688975295255100468
+    second: JAGUAR_X3_104
+  - first:
+      213: -7509702168314263408
+    second: JAGUAR_X3_105
+  - first:
+      213: 6471723189079318719
+    second: JAGUAR_X3_106
+  - first:
+      213: 6920206184570572327
+    second: JAGUAR_X3_107
+  - first:
+      213: -2511451546482259919
+    second: JAGUAR_X3_108
+  - first:
+      213: -7812647016628180655
+    second: JAGUAR_X3_109
+  - first:
+      213: -746023636277463292
+    second: JAGUAR_X3_110
+  - first:
+      213: 6326111101877449392
+    second: JAGUAR_X3_111
+  - first:
+      213: -7347882489715883542
+    second: JAGUAR_X3_112
+  - first:
+      213: 6283910957874667919
+    second: JAGUAR_X3_113
+  - first:
+      213: -5466365233636476836
+    second: JAGUAR_X3_114
+  - first:
+      213: 8395468167326192371
+    second: JAGUAR_X3_115
+  - first:
+      213: 6187134112265638713
+    second: JAGUAR_X3_116
+  - first:
+      213: -2202302539518204531
+    second: JAGUAR_X3_117
+  - first:
+      213: 5777034778141662323
+    second: JAGUAR_X3_118
+  - first:
+      213: 2280399801993994553
+    second: JAGUAR_X3_119
+  - first:
+      213: 1049937237584045754
+    second: JAGUAR_X3_120
+  - first:
+      213: -3421210042361952982
+    second: JAGUAR_X3_121
+  - first:
+      213: -5976673309528451054
+    second: JAGUAR_X3_122
+  - first:
+      213: -288273131810090599
+    second: JAGUAR_X3_123
+  - first:
+      213: -571499117717286819
+    second: JAGUAR_X3_124
+  - first:
+      213: 4803228954939904622
+    second: JAGUAR_X3_125
+  - first:
+      213: -6290694781987070354
+    second: JAGUAR_X3_126
+  - first:
+      213: 5125826026850526059
+    second: JAGUAR_X3_127
+  - first:
+      213: 820913970606866126
+    second: JAGUAR_X3_128
+  - first:
+      213: -462099789116161280
+    second: JAGUAR_X3_129
+  - first:
+      213: 4062104115268327941
+    second: JAGUAR_X3_130
+  - first:
+      213: -7878021692934262503
+    second: JAGUAR_X3_131
+  - first:
+      213: 7074786313713202802
+    second: JAGUAR_X3_132
+  - first:
+      213: -6710677485558789128
+    second: JAGUAR_X3_133
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JAGUAR_X3_0
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 3045
+        width: 45
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187c46c6b3cbb2090800000000000000
+      internalID: -8058140144841734271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_1
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 3166
+        width: 246
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d078af5476a7e40800000000000000
+      internalID: 5654945832370638162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_2
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 3228
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b1c4ad5ab546b90800000000000000
+      internalID: -7249568732269503626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_3
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 3166
+        width: 145
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e08ea14ad9b0780800000000000000
+      internalID: -8715699325693850095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_4
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 3165
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7deeeaafabde4230800000000000000
+      internalID: 3625076297613372796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_5
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 3228
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8b8b62539e7ee60800000000000000
+      internalID: 7991612478284413117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_6
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 3166
+        width: 106
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa7b7b25a51a09b0800000000000000
+      internalID: -5113250627782477068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_7
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 3166
+        width: 44
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fdb4f9cccbd88f0800000000000000
+      internalID: -536565193555321069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_8
+      rect:
+        serializedVersion: 2
+        x: 2297
+        y: 3166
+        width: 112
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7939a2deed2b8a0800000000000000
+      internalID: -6290720619280230480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_9
+      rect:
+        serializedVersion: 2
+        x: 2425
+        y: 3166
+        width: 139
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a148ef3f206fab7e0800000000000000
+      internalID: -1748815012736105446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_10
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 3163
+        width: 154
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43500c728e365ea80800000000000000
+      internalID: -8438228478058298060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_11
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 3228
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6dc1d9bd180b760800000000000000
+      internalID: 7471614562041386664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_12
+      rect:
+        serializedVersion: 2
+        x: 2768
+        y: 3166
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f51fef02822d7180800000000000000
+      internalID: -9116092128719596048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_13
+      rect:
+        serializedVersion: 2
+        x: 2862
+        y: 3228
+        width: 85
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f11ad0aa7a0f3620800000000000000
+      internalID: 2755933018774966773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_14
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 2982
+        width: 559
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7097c7f5061496800800000000000000
+      internalID: 606087507032701191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_15
+      rect:
+        serializedVersion: 2
+        x: 3346
+        y: 3166
+        width: 214
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f377e3f70271b9e0800000000000000
+      internalID: -1607378213512186895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_16
+      rect:
+        serializedVersion: 2
+        x: 3575
+        y: 3166
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac197414785585810800000000000000
+      internalID: 1754246094264963530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_17
+      rect:
+        serializedVersion: 2
+        x: 3649
+        y: 3228
+        width: 166
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e44ccdd577c84850800000000000000
+      internalID: 6361553782707078374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_18
+      rect:
+        serializedVersion: 2
+        x: 3656
+        y: 3166
+        width: 319
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1fd417ded097800800000000000000
+      internalID: 610534537944756648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_19
+      rect:
+        serializedVersion: 2
+        x: 3918
+        y: 2982
+        width: 247
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b560830df4c740810800000000000000
+      internalID: 1730644839054706267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_20
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 2679
+        width: 216
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce089da63d454530800000000000000
+      internalID: 3838559154639212225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_21
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 3042
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d802770cb0c147380800000000000000
+      internalID: -8974517320643305331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_22
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 3045
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd81d6bd5b813280800000000000000
+      internalID: -9065311340304691776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_23
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 3045
+        width: 52
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca36ff2a268da2c00800000000000000
+      internalID: 876750995630023596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_24
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 2984
+        width: 145
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a93c01b98dc0f2b0800000000000000
+      internalID: -5552712349283239518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_25
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 3042
+        width: 62
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abdc05831774ebfa0800000000000000
+      internalID: -5783106319895441990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_26
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 2999
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5f5883bb3fc9000800000000000000
+      internalID: 44178081799599552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_27
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 3044
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aae74973813ddd90800000000000000
+      internalID: -7071441399156577629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_28
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 3044
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63d1ea3aa25504d0800000000000000
+      internalID: -3169035871699479699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_29
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 2982
+        width: 147
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3626bfd49b62f6fa0800000000000000
+      internalID: -5805378817338154397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_30
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 3044
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f8148148e44f5b0800000000000000
+      internalID: -5335553329277595885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_31
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 3042
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ab3edbeaa368850800000000000000
+      internalID: 6378850444401424946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_32
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 3044
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d89bf428de712a0800000000000000
+      internalID: -6766678771161789032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_33
+      rect:
+        serializedVersion: 2
+        x: 2291
+        y: 3045
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2348138b400e8d5c0800000000000000
+      internalID: -4190353142393502670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_34
+      rect:
+        serializedVersion: 2
+        x: 2308
+        y: 2992
+        width: 106
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2cf61294c3bb350800000000000000
+      internalID: 6033482410584162999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_35
+      rect:
+        serializedVersion: 2
+        x: 2312
+        y: 3047
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f466d2bdf41d580800000000000000
+      internalID: -8804167993754497273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_36
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 3042
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282c28b4d89208970800000000000000
+      internalID: 8755043362442232450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_37
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 3050
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2688a3b7e44d060800000000000000
+      internalID: 6977288013873701607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_38
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 3044
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d979965fd1b7cb420800000000000000
+      internalID: 2647126049588615069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_39
+      rect:
+        serializedVersion: 2
+        x: 2371
+        y: 3052
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd356276b688bae70800000000000000
+      internalID: 9127539064669885404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_40
+      rect:
+        serializedVersion: 2
+        x: 2372
+        y: 3042
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba33176374764da0800000000000000
+      internalID: -5960949017778898241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_41
+      rect:
+        serializedVersion: 2
+        x: 2413
+        y: 3045
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3b6a5869deba830800000000000000
+      internalID: 4083618717884658604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_42
+      rect:
+        serializedVersion: 2
+        x: 2425
+        y: 2984
+        width: 131
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af05eec5f91c8620800000000000000
+      internalID: 2777623613709553568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_43
+      rect:
+        serializedVersion: 2
+        x: 2433
+        y: 3042
+        width: 49
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43a27084bf668970800000000000000
+      internalID: 8756809346508301130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_44
+      rect:
+        serializedVersion: 2
+        x: 2554
+        y: 3050
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da598418250aed00800000000000000
+      internalID: 1002619536744733398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_45
+      rect:
+        serializedVersion: 2
+        x: 2594
+        y: 3042
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb4ea65010af5210800000000000000
+      internalID: 1323952807504399311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_46
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 3044
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f4fd42b2e8b7670800000000000000
+      internalID: 8537573834564259588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_47
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 3042
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d518a3ce5671ba130800000000000000
+      internalID: 3578980055398383965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_48
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 3050
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f419cadfb0dfba0800000000000000
+      internalID: -6053669139966242976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_49
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 3045
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a1db85363941b20800000000000000
+      internalID: 3104268098064947730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_50
+      rect:
+        serializedVersion: 2
+        x: 2725
+        y: 3050
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc8beff1cb68ebc0800000000000000
+      internalID: -3753631808446821132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_51
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 3052
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af3b5ac4de6c0dd0800000000000000
+      internalID: -2518516231399850075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_52
+      rect:
+        serializedVersion: 2
+        x: 2767
+        y: 3044
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30781a70c4d510b0800000000000000
+      internalID: -5758462625376079811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_53
+      rect:
+        serializedVersion: 2
+        x: 2768
+        y: 2984
+        width: 93
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aac9533152f31710800000000000000
+      internalID: 1662939117997640354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_54
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 3052
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7b03d81dd2adee0800000000000000
+      internalID: -1235624769719584863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_55
+      rect:
+        serializedVersion: 2
+        x: 2877
+        y: 3052
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e696ce74c250ba0800000000000000
+      internalID: -6123439430919688595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_56
+      rect:
+        serializedVersion: 2
+        x: 2897
+        y: 3052
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25859e9de9e87adc0800000000000000
+      internalID: -3627774161911719854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_57
+      rect:
+        serializedVersion: 2
+        x: 2917
+        y: 3052
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a05582b9aaec2e0800000000000000
+      internalID: -2103556392562128361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_58
+      rect:
+        serializedVersion: 2
+        x: 2957
+        y: 3052
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bae03e4de19dc1a0800000000000000
+      internalID: -6787608614972364105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_59
+      rect:
+        serializedVersion: 2
+        x: 3017
+        y: 3054
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0a45638a7109750800000000000000
+      internalID: 6309569089179525358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_60
+      rect:
+        serializedVersion: 2
+        x: 3079
+        y: 3052
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c0e7b1368022400800000000000000
+      internalID: 297809747115904022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_61
+      rect:
+        serializedVersion: 2
+        x: 3099
+        y: 3052
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2358097f7931694d0800000000000000
+      internalID: -3128291347747797710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_62
+      rect:
+        serializedVersion: 2
+        x: 3119
+        y: 3052
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc242dc07df76620800000000000000
+      internalID: 2767459156962323711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_63
+      rect:
+        serializedVersion: 2
+        x: 3139
+        y: 3052
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6206069dd02ca5010800000000000000
+      internalID: 1178467617248141350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_64
+      rect:
+        serializedVersion: 2
+        x: 3179
+        y: 3052
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ff8e6e90e02a9c0800000000000000
+      internalID: -3917553290167386232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_65
+      rect:
+        serializedVersion: 2
+        x: 3220
+        y: 3052
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c973b4610e280f0800000000000000
+      internalID: -1116083371278623621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_66
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 3047
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a7b76b672066eb0800000000000000
+      internalID: -4727088049987814796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_67
+      rect:
+        serializedVersion: 2
+        x: 3262
+        y: 3052
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257cc40b947a3c820800000000000000
+      internalID: 2937375316907968338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_68
+      rect:
+        serializedVersion: 2
+        x: 3280
+        y: 3052
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2626c1117f7b5cf70800000000000000
+      internalID: 9206967285000725090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_69
+      rect:
+        serializedVersion: 2
+        x: 3341
+        y: 3052
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d5c7bf28476c1d0800000000000000
+      internalID: -3330846768480100998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_70
+      rect:
+        serializedVersion: 2
+        x: 3366
+        y: 3044
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd891375b7616c740800000000000000
+      internalID: 5171845941081250013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_71
+      rect:
+        serializedVersion: 2
+        x: 3394
+        y: 3042
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc71a87e1f9b21800800000000000000
+      internalID: 581731750507059151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_72
+      rect:
+        serializedVersion: 2
+        x: 3424
+        y: 3045
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50abcc577e6449060800000000000000
+      internalID: 6959265284121999877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_73
+      rect:
+        serializedVersion: 2
+        x: 3439
+        y: 2999
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ed8404fea823ae0800000000000000
+      internalID: -1571040559818547696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_74
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 3047
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c2db57577a56ec0800000000000000
+      internalID: -3574266606320276468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_75
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 3042
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8613c166aadeb5e40800000000000000
+      internalID: 5646367873952395624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_76
+      rect:
+        serializedVersion: 2
+        x: 3523
+        y: 3052
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6fd7da71b0a58b0800000000000000
+      internalID: -5162801826503985477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_77
+      rect:
+        serializedVersion: 2
+        x: 3535
+        y: 3045
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1c3da08f6d81910800000000000000
+      internalID: 1808431611211137510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_78
+      rect:
+        serializedVersion: 2
+        x: 3540
+        y: 2982
+        width: 113
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6416e1c06e22b50800000000000000
+      internalID: 6567064146383292134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_79
+      rect:
+        serializedVersion: 2
+        x: 3563
+        y: 3044
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1c542436ea1e730800000000000000
+      internalID: 4026691283182797228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_80
+      rect:
+        serializedVersion: 2
+        x: 3656
+        y: 3045
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e286210528defc7a0800000000000000
+      internalID: -6354599405251565522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_81
+      rect:
+        serializedVersion: 2
+        x: 3684
+        y: 3042
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e5b743e1c16c570800000000000000
+      internalID: 8486501463881375385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_82
+      rect:
+        serializedVersion: 2
+        x: 3724
+        y: 3042
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa060dd5ef5be9840800000000000000
+      internalID: 5232819921151353002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_83
+      rect:
+        serializedVersion: 2
+        x: 3742
+        y: 2999
+        width: 92
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf2ce2aa765bf8b0800000000000000
+      internalID: -5117401466857050192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_84
+      rect:
+        serializedVersion: 2
+        x: 3757
+        y: 3042
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37151c4587dfe3b60800000000000000
+      internalID: 7727892703874208115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_85
+      rect:
+        serializedVersion: 2
+        x: 3807
+        y: 3052
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13710c19877b7680800000000000000
+      internalID: -8756273619727715558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_86
+      rect:
+        serializedVersion: 2
+        x: 3837
+        y: 3044
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87bafc14ec63dcf0800000000000000
+      internalID: -228719429071226993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_87
+      rect:
+        serializedVersion: 2
+        x: 3858
+        y: 2999
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe5f3fb212d237d0800000000000000
+      internalID: -2940056628759666952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_88
+      rect:
+        serializedVersion: 2
+        x: 4007
+        y: 3052
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6264028c2c3ad190800000000000000
+      internalID: -7936965231429524883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_89
+      rect:
+        serializedVersion: 2
+        x: 4026
+        y: 3054
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334febc9442615d70800000000000000
+      internalID: 9030106774681613363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_90
+      rect:
+        serializedVersion: 2
+        x: 4067
+        y: 3052
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1bf5d7a57668fc0800000000000000
+      internalID: -3492990822631099912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_91
+      rect:
+        serializedVersion: 2
+        x: 2384
+        y: 3044
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc96a78857084c60800000000000000
+      internalID: 7802494431233744050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_92
+      rect:
+        serializedVersion: 2
+        x: 2591
+        y: 2999
+        width: 128
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40f4a02f34f6bf20800000000000000
+      internalID: 3438203917511749711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_93
+      rect:
+        serializedVersion: 2
+        x: 2727
+        y: 3044
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a805c17a036bcd0800000000000000
+      internalID: -2542791445311354362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_94
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 3044
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887bd988eaaf3fd90800000000000000
+      internalID: -7065027762890885240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_95
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 3044
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceba0e9ea44b7b950800000000000000
+      internalID: 6464834023958031340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_96
+      rect:
+        serializedVersion: 2
+        x: 3494
+        y: 3044
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a60e428ea0085f00800000000000000
+      internalID: 1105634458029917859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_97
+      rect:
+        serializedVersion: 2
+        x: 2872
+        y: 2997
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6368e0d15b33230800000000000000
+      internalID: 3617434062110996146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_98
+      rect:
+        serializedVersion: 2
+        x: 3257
+        y: 2998
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518703c807a6c63c0800000000000000
+      internalID: -4364996907207985131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_99
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 19
+        width: 2584
+        height: 2939
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3191de09f41ad1f0800000000000000
+      internalID: -1019479305717968580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_100
+      rect:
+        serializedVersion: 2
+        x: 3976
+        y: 2810
+        width: 166
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f07c70b2f618850800000000000000
+      internalID: 6377500777938095894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_101
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 2689
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0548d950160b440800000000000000
+      internalID: 4949562667225600227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_102
+      rect:
+        serializedVersion: 2
+        x: 4019
+        y: 2447
+        width: 153
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e382c41bbc271a0800000000000000
+      internalID: -6813159323910783456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_103
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 2271
+        width: 196
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393047e0d5399b010800000000000000
+      internalID: 1205156403182044051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_104
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 2328
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c371c1512707710800000000000000
+      internalID: 1688975295255100468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_105
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 2328
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098c5a08aad28c790800000000000000
+      internalID: -7509702168314263408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_106
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 2499
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb02bb9a3fd20d950800000000000000
+      internalID: 6471723189079318719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_107
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 2329
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e4acb2cd2890060800000000000000
+      internalID: 6920206184570572327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_108
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 2329
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138c15def18852dd0800000000000000
+      internalID: -2511451546482259919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_109
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 2328
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159ac5a7ee6e39390800000000000000
+      internalID: -7812647016628180655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_110
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 2328
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407f2a5947795a5f0800000000000000
+      internalID: -746023636277463292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_111
+      rect:
+        serializedVersion: 2
+        x: 3978
+        y: 2499
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b27f0da78cdac750800000000000000
+      internalID: 6326111101877449392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_112
+      rect:
+        serializedVersion: 2
+        x: 4059
+        y: 2328
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae10c2d6ec3170a90800000000000000
+      internalID: -7347882489715883542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_113
+      rect:
+        serializedVersion: 2
+        x: 4060
+        y: 2271
+        width: 105
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81ed4cf8bfe43750800000000000000
+      internalID: 6283910957874667919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_114
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 2197
+        width: 67
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c587d8438c19324b0800000000000000
+      internalID: -5466365233636476836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_115
+      rect:
+        serializedVersion: 2
+        x: 3998
+        y: 2196
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2d39c21d1b28470800000000000000
+      internalID: 8395468167326192371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_116
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 2197
+        width: 87
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9339b4bb1bd1dd550800000000000000
+      internalID: 6187134112265638713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_117
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 2028
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85a3143289df61e0800000000000000
+      internalID: -2202302539518204531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_118
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 2028
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c163ec5862c2050800000000000000
+      internalID: 5777034778141662323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_119
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 2021
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93129bfa98b95af10800000000000000
+      internalID: 2280399801993994553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_120
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 2016
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6e6a2da50229e00800000000000000
+      internalID: 1049937237584045754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_121
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 1942
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a254403c79b6580d0800000000000000
+      internalID: -3421210042361952982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_122
+      rect:
+        serializedVersion: 2
+        x: 3979
+        y: 997
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2189ffe6a479e0da0800000000000000
+      internalID: -5976673309528451054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_123
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 692
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9919b2c2d19dffbf0800000000000000
+      internalID: -288273131810090599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_124
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 692
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5013039490a118f0800000000000000
+      internalID: -571499117717286819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_125
+      rect:
+        serializedVersion: 2
+        x: 4087
+        y: 692
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e625012394f78a240800000000000000
+      internalID: 4803228954939904622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_126
+      rect:
+        serializedVersion: 2
+        x: 4108
+        y: 692
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ed141ec66f2b8a0800000000000000
+      internalID: -6290694781987070354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_127
+      rect:
+        serializedVersion: 2
+        x: 4165
+        y: 626
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63a0e61d97922740800000000000000
+      internalID: 5125826026850526059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_128
+      rect:
+        serializedVersion: 2
+        x: 2766
+        y: 117
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece7d2928e8746b00800000000000000
+      internalID: 820913970606866126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_129
+      rect:
+        serializedVersion: 2
+        x: 2809
+        y: 115
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003c2faa0ba4699f0800000000000000
+      internalID: -462099789116161280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_130
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 97
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a983fbb2e7f5830800000000000000
+      internalID: 4062104115268327941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_131
+      rect:
+        serializedVersion: 2
+        x: 2929
+        y: 99
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911f4d38205aba290800000000000000
+      internalID: -7878021692934262503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_132
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276bba22ba0be2260800000000000000
+      internalID: 7074786313713202802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JAGUAR_X3_133
+      rect:
+        serializedVersion: 2
+        x: 2708
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb8e0fa162eed2a0800000000000000
+      internalID: -6710677485558789128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      JAGUAR_X3_0: -8058140144841734271
+      JAGUAR_X3_1: 5654945832370638162
+      JAGUAR_X3_10: -8438228478058298060
+      JAGUAR_X3_100: 6377500777938095894
+      JAGUAR_X3_101: 4949562667225600227
+      JAGUAR_X3_102: -6813159323910783456
+      JAGUAR_X3_103: 1205156403182044051
+      JAGUAR_X3_104: 1688975295255100468
+      JAGUAR_X3_105: -7509702168314263408
+      JAGUAR_X3_106: 6471723189079318719
+      JAGUAR_X3_107: 6920206184570572327
+      JAGUAR_X3_108: -2511451546482259919
+      JAGUAR_X3_109: -7812647016628180655
+      JAGUAR_X3_11: 7471614562041386664
+      JAGUAR_X3_110: -746023636277463292
+      JAGUAR_X3_111: 6326111101877449392
+      JAGUAR_X3_112: -7347882489715883542
+      JAGUAR_X3_113: 6283910957874667919
+      JAGUAR_X3_114: -5466365233636476836
+      JAGUAR_X3_115: 8395468167326192371
+      JAGUAR_X3_116: 6187134112265638713
+      JAGUAR_X3_117: -2202302539518204531
+      JAGUAR_X3_118: 5777034778141662323
+      JAGUAR_X3_119: 2280399801993994553
+      JAGUAR_X3_12: -9116092128719596048
+      JAGUAR_X3_120: 1049937237584045754
+      JAGUAR_X3_121: -3421210042361952982
+      JAGUAR_X3_122: -5976673309528451054
+      JAGUAR_X3_123: -288273131810090599
+      JAGUAR_X3_124: -571499117717286819
+      JAGUAR_X3_125: 4803228954939904622
+      JAGUAR_X3_126: -6290694781987070354
+      JAGUAR_X3_127: 5125826026850526059
+      JAGUAR_X3_128: 820913970606866126
+      JAGUAR_X3_129: -462099789116161280
+      JAGUAR_X3_13: 2755933018774966773
+      JAGUAR_X3_130: 4062104115268327941
+      JAGUAR_X3_131: -7878021692934262503
+      JAGUAR_X3_132: 7074786313713202802
+      JAGUAR_X3_133: -6710677485558789128
+      JAGUAR_X3_14: 606087507032701191
+      JAGUAR_X3_15: -1607378213512186895
+      JAGUAR_X3_16: 1754246094264963530
+      JAGUAR_X3_17: 6361553782707078374
+      JAGUAR_X3_18: 610534537944756648
+      JAGUAR_X3_19: 1730644839054706267
+      JAGUAR_X3_2: -7249568732269503626
+      JAGUAR_X3_20: 3838559154639212225
+      JAGUAR_X3_21: -8974517320643305331
+      JAGUAR_X3_22: -9065311340304691776
+      JAGUAR_X3_23: 876750995630023596
+      JAGUAR_X3_24: -5552712349283239518
+      JAGUAR_X3_25: -5783106319895441990
+      JAGUAR_X3_26: 44178081799599552
+      JAGUAR_X3_27: -7071441399156577629
+      JAGUAR_X3_28: -3169035871699479699
+      JAGUAR_X3_29: -5805378817338154397
+      JAGUAR_X3_3: -8715699325693850095
+      JAGUAR_X3_30: -5335553329277595885
+      JAGUAR_X3_31: 6378850444401424946
+      JAGUAR_X3_32: -6766678771161789032
+      JAGUAR_X3_33: -4190353142393502670
+      JAGUAR_X3_34: 6033482410584162999
+      JAGUAR_X3_35: -8804167993754497273
+      JAGUAR_X3_36: 8755043362442232450
+      JAGUAR_X3_37: 6977288013873701607
+      JAGUAR_X3_38: 2647126049588615069
+      JAGUAR_X3_39: 9127539064669885404
+      JAGUAR_X3_4: 3625076297613372796
+      JAGUAR_X3_40: -5960949017778898241
+      JAGUAR_X3_41: 4083618717884658604
+      JAGUAR_X3_42: 2777623613709553568
+      JAGUAR_X3_43: 8756809346508301130
+      JAGUAR_X3_44: 1002619536744733398
+      JAGUAR_X3_45: 1323952807504399311
+      JAGUAR_X3_46: 8537573834564259588
+      JAGUAR_X3_47: 3578980055398383965
+      JAGUAR_X3_48: -6053669139966242976
+      JAGUAR_X3_49: 3104268098064947730
+      JAGUAR_X3_5: 7991612478284413117
+      JAGUAR_X3_50: -3753631808446821132
+      JAGUAR_X3_51: -2518516231399850075
+      JAGUAR_X3_52: -5758462625376079811
+      JAGUAR_X3_53: 1662939117997640354
+      JAGUAR_X3_54: -1235624769719584863
+      JAGUAR_X3_55: -6123439430919688595
+      JAGUAR_X3_56: -3627774161911719854
+      JAGUAR_X3_57: -2103556392562128361
+      JAGUAR_X3_58: -6787608614972364105
+      JAGUAR_X3_59: 6309569089179525358
+      JAGUAR_X3_6: -5113250627782477068
+      JAGUAR_X3_60: 297809747115904022
+      JAGUAR_X3_61: -3128291347747797710
+      JAGUAR_X3_62: 2767459156962323711
+      JAGUAR_X3_63: 1178467617248141350
+      JAGUAR_X3_64: -3917553290167386232
+      JAGUAR_X3_65: -1116083371278623621
+      JAGUAR_X3_66: -4727088049987814796
+      JAGUAR_X3_67: 2937375316907968338
+      JAGUAR_X3_68: 9206967285000725090
+      JAGUAR_X3_69: -3330846768480100998
+      JAGUAR_X3_7: -536565193555321069
+      JAGUAR_X3_70: 5171845941081250013
+      JAGUAR_X3_71: 581731750507059151
+      JAGUAR_X3_72: 6959265284121999877
+      JAGUAR_X3_73: -1571040559818547696
+      JAGUAR_X3_74: -3574266606320276468
+      JAGUAR_X3_75: 5646367873952395624
+      JAGUAR_X3_76: -5162801826503985477
+      JAGUAR_X3_77: 1808431611211137510
+      JAGUAR_X3_78: 6567064146383292134
+      JAGUAR_X3_79: 4026691283182797228
+      JAGUAR_X3_8: -6290720619280230480
+      JAGUAR_X3_80: -6354599405251565522
+      JAGUAR_X3_81: 8486501463881375385
+      JAGUAR_X3_82: 5232819921151353002
+      JAGUAR_X3_83: -5117401466857050192
+      JAGUAR_X3_84: 7727892703874208115
+      JAGUAR_X3_85: -8756273619727715558
+      JAGUAR_X3_86: -228719429071226993
+      JAGUAR_X3_87: -2940056628759666952
+      JAGUAR_X3_88: -7936965231429524883
+      JAGUAR_X3_89: 9030106774681613363
+      JAGUAR_X3_9: -1748815012736105446
+      JAGUAR_X3_90: -3492990822631099912
+      JAGUAR_X3_91: 7802494431233744050
+      JAGUAR_X3_92: 3438203917511749711
+      JAGUAR_X3_93: -2542791445311354362
+      JAGUAR_X3_94: -7065027762890885240
+      JAGUAR_X3_95: 6464834023958031340
+      JAGUAR_X3_96: 1105634458029917859
+      JAGUAR_X3_97: 3617434062110996146
+      JAGUAR_X3_98: -4364996907207985131
+      JAGUAR_X3_99: -1019479305717968580
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
